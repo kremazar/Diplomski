@@ -1,2 +1,2 @@
 # Diplomski
-Skripte i dataset za diplomski rad
+Korištene skripte, trening i test podaci za diplomski rad
